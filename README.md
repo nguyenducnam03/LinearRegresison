@@ -30,3 +30,6 @@ Using np.linspace to create so much point on that.
 - Only need change data into suitable with form on sklearn.
 - It only take X and y [[x1,x2]] [[y1]] and will increase corresponding with parabole or cube....
 - It's all of linear regression I know.
+
+
+#This formula is in subject Mathematics for AI
